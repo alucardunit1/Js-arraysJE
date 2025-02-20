@@ -39,3 +39,4 @@ console.log(numbers);
 // Exercise 11: Sort the numbers in ascending order and print the array.
 numbers.sort(function (a, b) { return a - b; });
 console.log(numbers);
+console.log(colors);
