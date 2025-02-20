@@ -2,3 +2,7 @@
 // Someone new arrives—update your list.
 // Unfortunately, the last person on your list had to cancel—adjust your list accordingly.
 // Finally, check who is still attending and print the updated list.
+let attendees = ["Alice", "Bob", "Charlie"];
+attendees.push("Cody");
+attendees.pop();
+console.log(attendees);
